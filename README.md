@@ -26,7 +26,7 @@ This specific case was to assess preferences for certain variations of activitie
 ## Prerequisites
 
 - **Python**: Version 3.7 or higher.
-- **OpenAI Account**: With API access to GPT models (e.g., `gpt-3.5-turbo` or `gpt-4`).
+- **OpenAI Account**: With API access to GPT models (e.g., `gpt-4o-mini` or `gpt-4o`).
 - **Qualtrics Account**: With API access and permissions to create and manage surveys.
 - **Python Packages**:
   - `langchain_openai`
